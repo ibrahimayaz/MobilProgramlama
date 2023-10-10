@@ -32,7 +32,7 @@ String Yaz([String m = "Bingöl Üniversitesi"]) {
   return m;
 }
 
-//Parametre adlarına erişildi
+//Parametre adlarına erişilir.
 //Parametrelerin sırası önemsiz hale geldi.
 //Opsiyonel Parametredir.
 String Yaz2({String m = "Bitlis Eren Üniversitesi", int b = 8}) {
